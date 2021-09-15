@@ -27,12 +27,15 @@
 /*Superman*/
 .Red {
     color: red;
+    font-size: 50px;
 }
 .Blue{
     color: royalblue;
+    font-size: 50px;
 }
 .White {
     color: white;
+    font-size: 50px;
 }
 #Superman {
     margin: 20px;
@@ -43,6 +46,15 @@
     border-style: solid;
     border-color: white;
     font-family: fantasy;
+}
+#superman-title {
+    text-align: center;
+    border-bottom: white;
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 10px;
 }
 /*SpiderMan*/
 #Spiderman {

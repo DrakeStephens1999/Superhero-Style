@@ -1,0 +1,79 @@
+* {
+    margin: 0%;
+}
+/*Batman*/
+#Batman {
+    margin: 20px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border-width: 5px;
+    border-style: solid;
+    border-color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/*Wonder Woman*/
+#Wonder-Woman {
+    margin: 20px;
+    padding: 20px;
+    background-color: red;
+    color: yellow;
+    border-width: 5px;
+    border-style: solid;
+    border-color: blue;
+    font-family: monospace;
+    font-size: 120%;
+}
+/*Superman*/
+.Red {
+    color: red;
+}
+.Blue{
+    color: royalblue;
+}
+.White {
+    color: white;
+}
+#Superman {
+    margin: 20px;
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    font-family: fantasy;
+}
+/*SpiderMan*/
+#Spiderman {
+    margin: 20px;
+    padding: 20px;
+    background-color: red;
+    color: white;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    font-family: 'MedievalSharp', cursive;
+}
+/*Iron Man*/
+#Iron-Man{
+    margin: 20px;
+    padding: 20px;
+    background-color: maroon;
+    color: white;
+    border-width: 5px;
+    border-style: solid;
+    border-color: gold;
+    font-family: monospace;
+}
+/*Thor*/
+#Thor{
+    margin: 20px;
+    padding: 20px;
+    background-color: black;
+    color: turquoise;
+    border-width: 5px;
+    border-style: solid;
+    border-color: silver;
+    font-family: inherit;
+}
